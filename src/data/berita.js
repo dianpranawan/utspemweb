@@ -1,0 +1,58 @@
+export const kategori = ["Semua", "Prestasi", "Kegiatan", "Olahraga", "Fasilitas"];
+
+export const berita = [
+  {
+    id: 1,
+    judul: "SMA Negeri 3 Salatiga Mantapkan Langkah Menjadi Sekolah Berintegritas",
+    kategori: "Kegiatan",
+    tanggal: "Oktober 07, 2026",
+    gambar: "/sklh.jpeg",
+    ringkasan: " SMA Negeri 3 Salatiga mendeklarasikan komitmen sebagai Sekolah Berbasis Integritas pada Rabu pagi, 7 Oktober 2026.",
+    isi: " MA Negeri 3 Salatiga mendeklarasikan komitmen sebagai Sekolah Berbasis Integritas pada Rabu pagi, 7 Oktober 2026. Deklarasi berlangsung dalam apel sederhana di lapangan upacara dan disaksikan oleh Plt. Kepala SMA Negeri 3 Salatiga Supriyanto, S.Pd., para wakil kepala sekolah, sejumlah guru, seluruh pengurus OSIS, serta beberapa siswa. Sebelum penandatanganan deklarasi, seluruh peserta apel bersama-sama mengikrarkan Sembilan Nilai Karakter Integritas, yaitu jujur, disiplin, tanggung jawab, mandiri, kerja keras, sederhana, berani, peduli, dan adil. Penandatanganan komitmen integritas diawali oleh pengurus harian OSIS, kemudian dilanjutkan oleh seluruh pengurus OSIS lainnya. Setelah seluruh pengurus OSIS membubuhkan tanda tangan, Waka Kesiswaan Amelia Handayani Widiasih, M.Si., dan Waka Manajemen Mutu Supriyatin Widodo, M.Pd., turut menandatangani deklarasi tersebut. Penandatanganan kemudian ditutup dengan tanda tangan Kepala Sekolah. ",
+  },
+  {
+    id: 2,
+    judul: "Aluna meraih juara 2 Lomba Tari Kreasi Daerah dalam Jambore Pemuda Kota Salatiga 2026",
+    kategori: "Prestasi",
+    tanggal: "September 14, 2026",
+    gambar: "/aluna.png",
+    ringkasan: "Aluna meraih juara 2 Lomba Tari Kreasi Daerah dalam Jambore Pemuda Kota Salatiga 2026",
+    isi: "Aluna Sasya Ayumi, siswa kelas XII-10 SMA Negeri 3 Salatiga, akan mewakili Kota Salatiga dalam Jambore Pemuda Tingkat Provinsi Jawa Tengah 2026 melalui tari kreasi yang diciptakannya sendiri. Kesempatan itu diperoleh setelah Aluna meraih juara 2 Lomba Tari Kreasi Daerah dalam Jambore Pemuda Kota Salatiga 2026 yang diselenggarakan Dinas Pemuda dan Olahraga Kota Salatiga. Meski berada di posisi kedua, Aluna berhak menjadi wakil Salatiga karena peraih juara pertama berasal dari Kabupaten Semarang. Dalam ketentuan jambore, peserta dari luar daerah dapat mengikuti kompetisi tingkat Kota Salatiga, tetapi tidak dapat mewakili Salatiga pada jenjang provinsi. Di balik capaian tersebut, Aluna membawa karya yang berangkat dari tradisi masyarakat. Tari Merti Desa yang dibawakannya merupakan hasil kreasinya sendiri dengan mengangkat gagasan tentang doa, keceriaan, dan kebersamaan..",
+  },
+  {
+    id: 3,
+    judul: "Merdeka Berarti Hadir Bermanfaat Bagi Sesama",
+    kategori: "Kegiatan",
+    tanggal: "Agustus 17, 2026",
+    gambar: "/merdeka.png",
+    ringkasan: "Peringatan HUT ke-81 Kemerdekaan Republik Indonesia di SMA Negeri 3 Salatiga, Senin (17/8/2026)",
+    isi: "Peringatan HUT ke-81 Kemerdekaan Republik Indonesia di SMA Negeri 3 Salatiga, Senin (17/8/2026), membawa pesan sederhana bagi generasi muda: kemerdekaan tidak cukup dikenang, tetapi perlu diteruskan melalui tindakan yang bermanfaat bagi sesama. Pesan itu disampaikan Pembina Upacara Dr. Saptono Nugrohadi, M.Pd., M.Si. di hadapan guru, tenaga kependidikan, siswa kelas X, XI, dan XII, serta mahasiswa praktikan. Upacara berlangsung di lapangan utama sekolah dengan Paskibra Pratita Wijaya sebagai petugas. Dalam amanatnya, Saptono mengajak siswa melihat kemerdekaan bukan sebagai peristiwa yang jauh dari kehidupan mereka. Generasi muda memang tidak mengalami perjuangan bersenjata seperti para pendahulu, tetapi memiliki medan perjuangannya sendiri: belajar sungguh-sungguh, menjaga integritas, menghormati sesama, dan menggunakan kemampuan untuk memberi manfaat. Ia mengajak peserta upacara mengingat tiga pahlawan yang jejaknya lekat dengan Salatiga, yakni Brigjen Sudiarto, Laksamana Madya Yos Sudarso, dan Marsekal Muda Agustinus Adisutjipto. Ketiganya menjadi pengingat bahwa pengabdian kepada bangsa selalu menuntut keberanian untuk menempatkan kepentingan yang lebih besar di atas kepentingan pribadi.",
+  },
+  {
+    id: 4,
+    judul: "Aisha Raih Juara Dua Fisika, Lolos Nasiona",
+    kategori: "Prestasi",
+    tanggal: "Oktober 8, 2026",
+    gambar: "/2.jpeg",
+    ringkasan: " Prestasi membanggakan kembali diukir siswa SMA Negeri 3 Salatiga. Aisha Fathiyya Raihana",
+    isi: "Prestasi membanggakan kembali diukir siswa SMA Negeri 3 Salatiga. Aisha Fathiyya Raihana, siswi kelas X-3, berhasil meraih Juara 2 Wilayah Karesidenan Semarang dalam ajang Pekan Ilmiah Fisika (PIF) XXXVII Tingkat Nasional 2026. Kompetisi bergengsi yang diselenggarakan oleh Universitas Negeri Semarang (UNNES) itu dilaksanakan pada 3 Oktober kemarin. Berkat capaian ini, Aisha yang juga merupakan atlet basket SMAN 3 Salatiga, berhak melaju ke tingkat nasional. Prestasi ini tidak diraih secara instan. Aisha harus berjuang membagi waktu antara latihan basket dan persiapan kompetisi fisika tingkat SMA/sederajat yang cukup menyita waktu.",
+  },
+  {
+    id: 5,
+    judul: "Guru Ekonomi Salatiga Perkuat Literasi Investasi",
+    kategori: "Kegiatan",
+    tanggal: "September 23, 2026",
+    gambar: "/ekonomi.jpeg",
+    ringkasan: "Guru Ekonomi dari SMA, MAN, dan SMK di Kota Salatiga memperkuat pemahaman mengenai literasi keuangan dan investasi melalui kegiatan “Program Edukasi Investor Cerdas Melalui Literasi Keuangan pada Guru SMA/MAN/SMK Muatan Ekonomi di Salatiga”",
+    isi: "uru Ekonomi dari SMA, MAN, dan SMK di Kota Salatiga memperkuat pemahaman mengenai literasi keuangan dan investasi melalui kegiatan “Program Edukasi Investor Cerdas Melalui Literasi Keuangan pada Guru SMA/MAN/SMK Muatan Ekonomi di Salatiga”, Rabu, 23 September 2026. SMA Negeri 3 Salatiga menjadi tempat pelaksanaan sekaligus memfasilitasi kegiatan bersama MGMP Ekonomi Kota Salatiga. Kegiatan yang digelar Tim Pengabdian Masyarakat Politeknik Negeri Semarang (Polines) tersebut dimulai pukul 09.00 WIB. Program diarahkan untuk meningkatkan pemahaman dan literasi keuangan, khususnya di bidang investasi, bagi para pendidik. Narasumber dari Danareksa memberikan penguatan mengenai literasi keuangan dan investasi. Kehadiran praktisi diharapkan mempertemukan konsep ekonomi yang dipelajari di sekolah dengan persoalan keuangan yang dihadapi masyarakat dalam kehidupan sehari-hari.",
+  },
+  {
+    id: 6,
+    judul: "Haikal Raih Perak Pencak Silat POPDA",
+    kategori: "Prestasi",
+    tanggal: "September 07, 2026",
+    gambar: "/popda.jpg",
+    ringkasan: "Siswa SMA Negeri 3 Salatiga, Haikal Qusyiri Fakhrezi, meraih medali perak cabang pencak silat pada Pekan Olahraga Pelajar Daerah (POPDA) Provinsi Jawa Tengah 2026.",
+    isi: "Hasil pertandingan final menempatkan Haikal sebagai peraih medali perak. Capaian tersebut menjadi hasil dari rangkaian pertandingan yang harus dilaluinya hingga mencapai laga penentuan. Bagi pelajar, kompetisi olahraga tingkat provinsi bukan hanya ruang untuk mengukur kemampuan teknik. Pertandingan juga menguji kesiapan fisik, pengendalian diri, disiplin latihan, serta kemampuan menjaga sportivitas ketika menghadapi lawan. Keberhasilan mencapai final POPDA Jawa Tengah menunjukkan kemampuan Haikal bersaing pada level provinsi. Medali perak yang dibawanya pulang sekaligus menambah catatan prestasi siswa SMA Negeri 3 Salatiga di bidang olahraga. Capaian itu menjadi bagian dari proses pembinaan siswa yang tidak berhenti pada hasil pertandingan. Di balik medali, terdapat latihan, disiplin, dan pengalaman bertanding yang menjadi bekal untuk menghadapi kompetisi berikutnya.",
+  },
+];
