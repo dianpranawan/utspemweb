@@ -27,6 +27,8 @@ export default function Navbar() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  if (pathname.startsWith("/admin")) return null;   
+
   const aktif = (href) => (href === "/" ? pathname === "/" : pathname.startsWith(href));
   const ukuran = scrolled ? "h-12 w-12" : "h-16 w-16";
 
